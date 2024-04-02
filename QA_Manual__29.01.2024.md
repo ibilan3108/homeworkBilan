@@ -1,1 +1,2 @@
 # homeworkBilan
+print "Hello world"
